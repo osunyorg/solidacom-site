@@ -15,8 +15,8 @@ fr:
       instagram: >-
         https://www.instagram.com/greenwashing_lovers/
   permalinks:
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
+    projects: /conseil/:year-:slug/
+    projects_categories: /conseil/:slug/
   taxonomies:
     administrator: administrators
     author: authors
