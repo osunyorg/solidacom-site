@@ -5,6 +5,10 @@ items:
   target: "/conseil/"
   kind: page
   children: []
+- title: A propos
+  target: "/a-propos/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
