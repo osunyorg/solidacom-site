@@ -2,12 +2,18 @@
 
 fr:
   title: >-
-    Site
+    Solidacom
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   params:
     social:
+      x: >-
+        https://twitter.com/SolidaCom
+      linkedin: >-
+        https://www.linkedin.com/in/celinereveillac/
+      instagram: >-
+        https://www.instagram.com/greenwashing_lovers/
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
