@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Formation et enseignement
-  target: "/formation/"
+  target: "/formation-enseignement/"
   kind: page
   children: []
 - title: À propos
