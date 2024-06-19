@@ -4,13 +4,13 @@ items:
 - title: Mon offre
   target: "/mon-offre/"
   kind: page
-  children: []
+  children:
+  - title: Acteurs de l'ESS
+    target: "/mon-offre/acteurs-de-l-ess/"
+    kind: page
+    children: []
 - title: Conseil et accompagnement
   target: "/conseil/"
-  kind: page
-  children: []
-- title: Acteurs de l'ESS
-  target: "/acteurs-de-l-ess/"
   kind: page
   children: []
 - title: Formation et enseignement
