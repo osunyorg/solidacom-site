@@ -9,6 +9,10 @@ items:
     target: "/mon-offre/acteurs-de-l-ess/"
     kind: page
     children: []
+  - title: Entreprises engagées
+    target: "/mon-offre/entreprises-engagees/"
+    kind: page
+    children: []
 - title: Conseil et accompagnement
   target: "/conseil/"
   kind: page
@@ -23,10 +27,6 @@ items:
   children: []
 - title: Actualités
   target: "/actualites/"
-  kind: page
-  children: []
-- title: Entreprises engagées
-  target: "/entreprises-engagees/"
   kind: page
   children: []
 
