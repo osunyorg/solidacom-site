@@ -17,12 +17,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Equipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
+- title: Acteurs de l'ESS
+  target: "/acteurs-de-l-ess/"
   kind: page
   children: []
 
