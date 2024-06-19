@@ -5,8 +5,8 @@ items:
   target: "/mon-offre/"
   kind: page
   children:
-  - title: Acteurs de l'ESS
-    target: "/mon-offre/acteurs-de-l-ess/"
+  - title: Acteurs de l'économie sociale et solidaire
+    target: "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
     kind: page
     children: []
   - title: Entreprises engagées
