@@ -25,4 +25,8 @@ items:
   target: "/entreprises-engagees/"
   kind: page
   children: []
+- title: Mon offre
+  target: "/mon-offre/"
+  kind: page
+  children: []
 
