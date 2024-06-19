@@ -17,10 +17,6 @@ items:
     target: "/mon-offre/enseignement-superieur/"
     kind: page
     children: []
-- title: Conseil et accompagnement
-  target: "/conseil/"
-  kind: page
-  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
