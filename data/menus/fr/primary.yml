@@ -9,12 +9,12 @@ items:
     target: "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
     kind: page
     children: []
-  - title: Établissements d'enseignement supérieur
-    target: "/mon-offre/enseignement-superieur/"
-    kind: page
-    children: []
   - title: Entreprises engagées
     target: "/mon-offre/entreprises-engagees/"
+    kind: page
+    children: []
+  - title: Établissements d'enseignement supérieur
+    target: "/mon-offre/enseignement-superieur/"
     kind: page
     children: []
 - title: Conseil et accompagnement
