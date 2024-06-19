@@ -21,4 +21,8 @@ items:
   target: "/acteurs-de-l-ess/"
   kind: page
   children: []
+- title: Entreprises engagées
+  target: "/entreprises-engagees/"
+  kind: page
+  children: []
 
