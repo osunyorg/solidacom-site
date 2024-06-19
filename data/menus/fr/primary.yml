@@ -1,12 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Conseil et accompagnement
-  target: "/conseil/"
-  kind: page
-  children: []
 - title: Mon offre
   target: "/mon-offre/"
+  kind: page
+  children: []
+- title: Conseil et accompagnement
+  target: "/conseil/"
   kind: page
   children: []
 - title: Formation et enseignement
