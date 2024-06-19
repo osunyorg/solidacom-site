@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Conseil
+- title: Conseil et accompagnement
   target: "/conseil/"
   kind: page
   children: []
