@@ -5,6 +5,10 @@ items:
   target: "/conseil/"
   kind: page
   children: []
+- title: Mon offre
+  target: "/mon-offre/"
+  kind: page
+  children: []
 - title: Formation et enseignement
   target: "/formation-enseignement/"
   kind: page
@@ -19,10 +23,6 @@ items:
   children: []
 - title: Acteurs de l'ESS
   target: "/acteurs-de-l-ess/"
-  kind: page
-  children: []
-- title: Mon offre
-  target: "/mon-offre/"
   kind: page
   children: []
 - title: Entreprises engagées
