@@ -18,7 +18,7 @@ items:
     kind: page
     children: []
 - title: À propos
-  target: "/a-propos/"
+  target: "/a-propos/qui-suis-je/"
   kind: page
   children: []
 - title: Actualités
