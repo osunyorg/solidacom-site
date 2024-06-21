@@ -1,6 +1,10 @@
 ---
 title: Informations légales
 items:
+- title: Presse
+  target: ''
+  kind: blank
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
@@ -16,9 +20,5 @@ items:
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
-  children: []
-- title: Presse
-  target: ''
-  kind: blank
   children: []
 
