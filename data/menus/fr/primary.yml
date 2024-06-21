@@ -29,7 +29,7 @@ items:
     target: "/a-propos/mes-contributions/"
     kind: page
     children: []
-- title: Actualités
+- title: Ressources
   target: "/actualites/"
   kind: page
   children: []
