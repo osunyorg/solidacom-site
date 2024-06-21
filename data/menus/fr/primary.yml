@@ -25,6 +25,10 @@ items:
     target: "/a-propos/qui-suis-je/"
     kind: page
     children: []
+  - title: Mes contributions
+    target: "/a-propos/mes-contributions/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
