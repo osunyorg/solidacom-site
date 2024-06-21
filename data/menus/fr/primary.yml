@@ -20,7 +20,11 @@ items:
 - title: À propos
   target: "/a-propos/qui-suis-je/"
   kind: page
-  children: []
+  children:
+  - title: Qui suis-je ?
+    target: "/a-propos/qui-suis-je/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
