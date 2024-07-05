@@ -29,10 +29,6 @@ items:
     target: "/a-propos/mes-contributions/"
     kind: page
     children: []
-- title: Ressources
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
