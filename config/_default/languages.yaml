@@ -15,6 +15,10 @@ fr:
       instagram: >-
         https://www.instagram.com/greenwashing_lovers/
   permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
