@@ -45,8 +45,8 @@ items:
     target: "/actualites/action/"
     kind: category
     children: []
-- title: Réflexion
-  target: "/actualites/reflexion/"
-  kind: category
-  children: []
+  - title: Réflexion
+    target: "/actualites/reflexion/"
+    kind: category
+    children: []
 
