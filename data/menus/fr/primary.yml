@@ -29,12 +29,12 @@ items:
     target: "/a-propos/mes-contributions/"
     kind: page
     children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
+  kind: page
+  children: []
+- title: Contact
+  target: "/contact/"
   kind: page
   children: []
 
