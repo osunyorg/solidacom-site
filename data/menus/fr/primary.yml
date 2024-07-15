@@ -37,16 +37,4 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: Actualités
-  target: ''
-  kind: blank
-  children:
-  - title: Action
-    target: "/actualites/action/"
-    kind: category
-    children: []
-  - title: Réflexion
-    target: "/actualites/reflexion/"
-    kind: category
-    children: []
 
