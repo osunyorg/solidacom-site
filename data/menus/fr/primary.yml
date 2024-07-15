@@ -40,5 +40,9 @@ items:
 - title: Actualités
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Action
+    target: "/actualites/action/"
+    kind: category
+    children: []
 
