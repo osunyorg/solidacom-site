@@ -1,10 +1,6 @@
 ---
 title: Informations légales
 items:
-- title: Presse
-  target: ''
-  kind: blank
-  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
