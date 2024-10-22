@@ -59,20 +59,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 38
+  seconds: 41
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Mon offre
-    slug: "mon-offre"
-    position: 1
-    rank: 2
+    slug: >-
+      mon-offre
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Cours et séminaires
+    slug: >-
+      cours-et-seminaires
     ranks:
       self: 3
     data:
@@ -96,6 +104,8 @@ contents:
     template: chapter
     title: >-
       Ateliers / Workshops
+    slug: >-
+      ateliers-workshops
     ranks:
       self: 3
     data:
@@ -119,6 +129,8 @@ contents:
     template: chapter
     title: >-
       Conception de séminaires ou modules
+    slug: >-
+      conception-de-seminaires-ou-modules
     ranks:
       self: 3
     data:
@@ -142,6 +154,8 @@ contents:
     template: chapter
     title: >-
       Coaching et jury
+    slug: >-
+      coaching-et-jury
     ranks:
       self: 3
     data:
@@ -161,16 +175,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Références
-    slug: "references"
-    position: 2
-    rank: 2
+    slug: >-
+      references
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -241,7 +262,6 @@ contents:
 
           logo: "b9917e3c-03c8-4157-9e90-36f0fba2c571"
           external: true
-
 
 
 

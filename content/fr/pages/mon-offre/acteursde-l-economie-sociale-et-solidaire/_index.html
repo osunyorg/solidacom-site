@@ -59,20 +59,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 48
+  seconds: 51
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Offre
-    slug: "offre"
-    position: 1
-    rank: 2
+    slug: >-
+      offre
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Conseil et pilotage opérationnel
+    slug: >-
+      conseil-et-pilotage-operationnel
     ranks:
       self: 3
     data:
@@ -96,6 +104,8 @@ contents:
     template: chapter
     title: >-
       Formation, coaching et facilitation
+    slug: >-
+      formation-coaching-et-facilitation
     ranks:
       self: 3
     data:
@@ -115,16 +125,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Références
-    slug: "references"
-    position: 2
-    rank: 2
+    slug: >-
+      references
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -187,7 +204,6 @@ contents:
 
           logo: "3d0a303e-66df-42bb-9685-6a624ce7bb0d"
           external: true
-
 
 
 
