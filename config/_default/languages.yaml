@@ -7,13 +7,24 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/SolidaCom
-      linkedin: >-
-        https://www.linkedin.com/in/celinereveillac/
-      instagram: >-
-        https://www.instagram.com/greenwashing_lovers/
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            greenwashing_lovers
+          value: >-
+            https://instagram.com/greenwashing_lovers
+        linkedin:
+          label: >-
+            celinereveillac
+          value: >-
+            https://www.linkedin.com/in/celinereveillac/
+        x:
+          label: >-
+            SolidaCom
+          value: >-
+            https://x.com/SolidaCom
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
