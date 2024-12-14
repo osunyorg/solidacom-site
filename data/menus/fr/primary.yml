@@ -9,17 +9,21 @@ items:
     target: "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
     kind: page
     children: []
+    path: "/pages/mon-offre/acteursde-l-economie-sociale-et-solidaire"
     file: content/fr/pages/mon-offre/acteursde-l-economie-sociale-et-solidaire/_index.html
   - title: Entreprises engagées
     target: "/mon-offre/entreprises-engagees/"
     kind: page
     children: []
+    path: "/pages/mon-offre/entreprises-engagees"
     file: content/fr/pages/mon-offre/entreprises-engagees/_index.html
   - title: Établissements d'enseignement supérieur
     target: "/mon-offre/enseignement-superieur/"
     kind: page
     children: []
+    path: "/pages/mon-offre/enseignement-superieur"
     file: content/fr/pages/mon-offre/enseignement-superieur/_index.html
+  path: "/pages/mon-offre"
   file: content/fr/pages/mon-offre/_index.html
 - title: À propos
   target: "/a-propos/qui-suis-je/"
@@ -29,21 +33,26 @@ items:
     target: "/a-propos/qui-suis-je/"
     kind: page
     children: []
+    path: "/pages/a-propos/qui-suis-je"
     file: content/fr/pages/a-propos/qui-suis-je/_index.html
   - title: Mes contributions
     target: "/a-propos/mes-contributions/"
     kind: page
     children: []
+    path: "/pages/a-propos/mes-contributions"
     file: content/fr/pages/a-propos/mes-contributions/_index.html
+  path: "/pages/a-propos/qui-suis-je"
   file: content/fr/pages/a-propos/qui-suis-je/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
   children: []
+  path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
