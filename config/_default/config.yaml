@@ -10,8 +10,10 @@ params:
   search:
     active: false
   menu:
-    dropdown:
-      linkToLevel1: true
+    primary:
+      level_2:
+        title:
+          active: true
 
   logo:
     header: "/assets/images/logo.svg"
