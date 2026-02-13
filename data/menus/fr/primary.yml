@@ -2,66 +2,89 @@
 title: Menu principal
 items:
 - title: Mon offre
+  slug: mon-offre
   target: "/mon-offre/"
   kind: page
   new_tab: false
   children:
   - title: Acteurs de l'économie sociale et solidaire
+    slug: acteurs-de-l-economie-sociale-et-solidaire
     target: "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mon-offre/acteursde-l-economie-sociale-et-solidaire"
     file: content/fr/pages/mon-offre/acteursde-l-economie-sociale-et-solidaire/_index.html
   - title: Entreprises engagées
+    slug: entreprises-engagees
     target: "/mon-offre/entreprises-engagees/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mon-offre/entreprises-engagees"
     file: content/fr/pages/mon-offre/entreprises-engagees/_index.html
   - title: Établissements d'enseignement supérieur
+    slug: etablissements-d-enseignement-superieur
     target: "/mon-offre/enseignement-superieur/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mon-offre/enseignement-superieur"
     file: content/fr/pages/mon-offre/enseignement-superieur/_index.html
+  descendants_targets:
+  - "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
+  - "/mon-offre/enseignement-superieur/"
+  - "/mon-offre/entreprises-engagees/"
   path: "/pages/mon-offre"
   file: content/fr/pages/mon-offre/_index.html
 - title: À propos
+  slug: a-propos
   target: "/a-propos/qui-suis-je/"
   kind: page
   new_tab: false
   children:
   - title: Qui suis-je ?
+    slug: qui-suis-je
     target: "/a-propos/qui-suis-je/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/qui-suis-je"
     file: content/fr/pages/a-propos/qui-suis-je/_index.html
   - title: Mes contributions
+    slug: mes-contributions
     target: "/a-propos/mes-contributions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/mes-contributions"
     file: content/fr/pages/a-propos/mes-contributions/_index.html
+  descendants_targets:
+  - "/a-propos/mes-contributions/"
+  - "/a-propos/qui-suis-je/"
   path: "/pages/a-propos/qui-suis-je"
   file: content/fr/pages/a-propos/qui-suis-je/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
