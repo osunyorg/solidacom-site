@@ -15,54 +15,54 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/acteurs-de-l-ess/index.html"
+from = "/acteurs-de-l-ess/"
 to = "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
 
 [[redirects]]
-from = "/entreprises-engagees/index.html"
+from = "/entreprises-engagees/"
 to = "/mon-offre/entreprises-engagees/"
 
 [[redirects]]
-from = "/actualites/2024-07-15-et-toi-tu-fais-quoi-dans-la-vie/index.html"
+from = "/actualites/2024-07-15-et-toi-tu-fais-quoi-dans-la-vie/"
 to = "/actualites/2019-12-10-et-toi-tu-fais-quoi-dans-la-vie/"
 
 [[redirects]]
-from = "/actualites/2024-07-15-reboot/index.html"
+from = "/actualites/2024-07-15-reboot/"
 to = "/actualites/2021-10-16-de-tribunes-en-actions-reboot/"
 
 [[redirects]]
-from = "/actualites/2022-06-20-lancement-de-communication-et-democratie/index.html"
+from = "/actualites/2022-06-20-lancement-de-communication-et-democratie/"
 to = "/actualites/2022-06-01-lancement-de-communication-et-democratie/"
 
 [[redirects]]
-from = "/celine-reveillac/actualites/index.html"
+from = "/celine-reveillac/actualites/"
 to = "/equipe/celine-reveillac/actualites/"
 
 [[redirects]]
-from = "/equipe-editoriale/index.html"
+from = "/equipe-editoriale/"
 to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/formation-enseignement/index.html"
+from = "/formation-enseignement/"
 to = "/mon-offre/enseignement-superieur/"
 
 [[redirects]]
-from = "/actualites/2024-07-15-tous-daccord/index.html"
+from = "/actualites/2024-07-15-tous-daccord/"
 to = "/actualites/2020-12-12-tous-daccord/"
 
 [[redirects]]
-from = "/celine-reveillac/index.html"
+from = "/celine-reveillac/"
 to = "/equipe/celine-reveillac/"
 
 [[redirects]]
-from = "/mon-offre/acteurs-de-l-ess/index.html"
+from = "/mon-offre/acteurs-de-l-ess/"
 to = "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
 
 [[redirects]]
-from = "/formation/index.html"
+from = "/formation/"
 to = "/mon-offre/enseignement-superieur/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/conseil/"
 
