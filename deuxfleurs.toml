@@ -13,3 +13,56 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/acteurs-de-l-ess/index.html"
+to = "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
+
+[[redirects]]
+from = "/entreprises-engagees/index.html"
+to = "/mon-offre/entreprises-engagees/"
+
+[[redirects]]
+from = "/actualites/2024-07-15-et-toi-tu-fais-quoi-dans-la-vie/index.html"
+to = "/actualites/2019-12-10-et-toi-tu-fais-quoi-dans-la-vie/"
+
+[[redirects]]
+from = "/actualites/2024-07-15-reboot/index.html"
+to = "/actualites/2021-10-16-de-tribunes-en-actions-reboot/"
+
+[[redirects]]
+from = "/actualites/2022-06-20-lancement-de-communication-et-democratie/index.html"
+to = "/actualites/2022-06-01-lancement-de-communication-et-democratie/"
+
+[[redirects]]
+from = "/celine-reveillac/actualites/index.html"
+to = "/equipe/celine-reveillac/actualites/"
+
+[[redirects]]
+from = "/equipe-editoriale/index.html"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/formation-enseignement/index.html"
+to = "/mon-offre/enseignement-superieur/"
+
+[[redirects]]
+from = "/actualites/2024-07-15-tous-daccord/index.html"
+to = "/actualites/2020-12-12-tous-daccord/"
+
+[[redirects]]
+from = "/celine-reveillac/index.html"
+to = "/equipe/celine-reveillac/"
+
+[[redirects]]
+from = "/mon-offre/acteurs-de-l-ess/index.html"
+to = "/mon-offre/acteursde-l-economie-sociale-et-solidaire/"
+
+[[redirects]]
+from = "/formation/index.html"
+to = "/mon-offre/enseignement-superieur/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/conseil/"
+
